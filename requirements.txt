@@ -1,0 +1,16 @@
+# Core dependencies for FindMyText
+datasets
+filelock
+numba
+numpy
+orjson
+polars
+scipy
+tqdm
+
+# Optional: faster gzip decompression (Intel ISA-L). Falls back to stdlib gzip if absent.
+isal
+
+# Optional (heavy, GPU): used only in experiments/eval_sampler.py for LLM generation.
+# Install separately when needed:
+#   vllm
