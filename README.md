@@ -15,7 +15,7 @@ A full step-by-step walkthrough is available in [`demo.ipynb`](demo.ipynb).
 ## Installation
 
 ```bash
-git clone https://github.com/your-org/FindMyText.git
+git clone https://github.com/anonymous-NLP/FindMyText.git
 cd FindMyText
 pip install -e .
 ```
